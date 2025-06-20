@@ -1,2 +1,2 @@
 # delta-demo
-This is my first delta demo class
+This is my first delta demo class of Github.
